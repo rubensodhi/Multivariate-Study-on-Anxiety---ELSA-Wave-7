@@ -9,7 +9,11 @@ This project investigates how various life factors influence anxiety among elder
 1. **Multivariate Study on Anxiety - ELSA Wave 7.pdf**: A detailed report explaining the study's hypotheses, methodology, and results.
 2. **Output1.spv**: Contains all the statistical tests performed for the study, including:
    - Chi-square tests to determine associations between independent variables and anxiety.
+     ![image](https://github.com/user-attachments/assets/e28b8376-e977-406f-9d08-1a134021d234)
+
    - Binary logistic regression outputs to evaluate the strength of significant factors.
+     ![image](https://github.com/user-attachments/assets/9a01c8d6-b9a6-498e-af6d-1263e50e81d3)
+
    - Additional summary statistics and results generated during the analysis.
 
 ### Hypotheses Tested:
